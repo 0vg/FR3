@@ -26,10 +26,10 @@ This project demonstrates a simple web application that allows users to upload a
 4. Open your web browser and navigate to http://localhost:5000 to use the application.
 
 ## Todo
--[ ] Fix some scanning issues
--[ ] Better UI/UX
--[ ] Make the rectangles editable / edit the facial feature boxes
--[ ] Implement a database to store the original face and facial features
--[ ] Add error handling
--[ ] Add tests for functions
--[ ] API to retrieve the images (store by UUID?)
+- [ ] Fix some scanning issues
+- [ ] Better UI/UX
+- [ ] Make the rectangles editable / edit the facial feature boxes
+- [ ] Implement a database to store the original face and facial features
+- [ ] Add error handling
+- [ ] Add tests for functions
+- [ ] API to retrieve the images (store by UUID?)
